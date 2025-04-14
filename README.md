@@ -1,47 +1,26 @@
-  <!--                                               Hi there 👋, I'm Varun Chimurkar! 
-- 🔭 I’m currently working on Salesforce 
-- 📚 Learning new things, hard working and friendly.😃
-- ❤️ I love to build websites and web applications.
-- 🌱 I’m currently learning more about Salesforce
-- 📫 How to reach me Twitter - @imVChimurkar Instagram - varun_chimurkar LinkedIn - bit.ly/2EnI9kV
---->
-<!---
-varunchimurkar/varunchimurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I'm [Varun Chimurkar]
+
+🎯 Passionate developer with a love for building clean, efficient, and user-friendly applications.
+
+🛠️ **Tech Stack**
+- 💻 Languages: HTML, CSS, JavaScript
+- ⚙️ Frameworks: React, Node.js, Express, Next.js
+- 🛢️ Databases: MongoDB, PostgreSQL
+- 🧰 Tools: Git, Docker, Vercel
 
 
-<h1 align="center">Hi 👋, I'm Varun Chimurkar</h1>
-<h3 align="center"> Salesforce || LWC || Apex || SOQL || HTML5 || CSS 3 || JavaScript || Vue.js || Python </h3>
+🌱 Currently learning: Full-Stack Project
+🚀 Exploring: AI Integration, DevOps
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varunchimurkar&label=Profile%20views&color=0e75b6&style=flat" alt="varunchimurkar" /> </p>
+- 📫 Reach me at: **[varunchimurkar0908@gmail.com](mailto:varunchimurkar0908@gmail.com)**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varunchimurkar" alt="varunchimurkar" /></a> </p>
+## 📫 Let's connect!
 
-<p align="left"> <a href="https://twitter.com/imvchimurkar" target="blank"><img src="https://img.shields.io/twitter/follow/imvchimurkar?logo=twitter&style=for-the-badge" alt="imvchimurkar" /></a> </p>
+- [LinkedIn](https://www.linkedin.com/in/varun-chimurkar-3b636b168/)
+- [Twitter](https://x.com/imVChimurkar)
 
+---
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=varunchimurkar&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on Salesforce  
-
-- 🌱 I’m currently learning Salesforce
-
-- 📚 Learning new things, hard working and friendly.😃
-
-- ❤️ I love to build websites and web applications.
-
-- 📫 How to reach me **varunchimurkar96@gmail.com**
-
-
-
-<h3 align="left">Languages and Tools:</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,html,css,javascript,vue,python,)](https://skillicons.dev)
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunchimurkar&show_icons=true&locale=en&layout=compact" alt="varunchimurkar" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=varunchimurkar&show_icons=true&locale=en" alt="varunchimurkar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=varunchimurkar&" alt="varunchimurkar" /></p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varunchimurkar&layout=compact&theme=radical)
